@@ -1,0 +1,8 @@
+i$ cat .gitignore
+build/
+bin/
+dist/
+target/
+/.*/
+*~
+
